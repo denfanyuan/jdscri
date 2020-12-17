@@ -31,7 +31,7 @@ Node.js 环境 [下载地址](https://nodejs.org/zh-tw/download/) ，根据自�
 打开项目文件内的 `jdCookie.js`
 
 在最上面的 `CookieJDs`里写入 cookie ，多个账号以逗号分隔
-
+  
 例如
 
 ```javascript
